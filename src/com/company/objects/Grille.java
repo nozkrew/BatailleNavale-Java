@@ -5,6 +5,8 @@ import java.util.ArrayList;
 public class Grille {
 
     protected ArrayList<Case> grille = new ArrayList<Case>();
+    protected int dimX = 10;
+    protected int dimY = 10;
 
     public Grille(){
     }

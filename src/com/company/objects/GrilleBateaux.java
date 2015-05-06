@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class GrilleBateaux extends Grille {
 
-    public GrilleBateaux(ArrayList<Bateau> p_listBateaux){
+    public GrilleBateaux(){
 
     }
 }
