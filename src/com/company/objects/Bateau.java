@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Bateau {
     private String nom;
     private boolean estCoule;
+    protected Case[] placement;
 
     public Bateau(String nom) {
         this.nom = nom;
